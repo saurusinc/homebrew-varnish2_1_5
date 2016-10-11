@@ -1,6 +1,6 @@
 require 'formula'
 
-class Varnish2_1_5 < Formula
+class Varnish215 < Formula
   url 'http://repo.varnish-cache.org/source/varnish-2.1.5.tar.gz'
   homepage 'http://www.varnish-cache.org/'
 
